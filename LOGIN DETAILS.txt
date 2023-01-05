@@ -1,0 +1,3 @@
+for admin
+username: phasetumurere@gmail.com
+password: 12
